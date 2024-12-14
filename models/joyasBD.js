@@ -48,7 +48,6 @@ const obtenerJoyasFiltrosBD = async (precioMax=0,precioMin=0,categoia="",metal="
         return data;
 
     } catch (error) {
-        console.log(error);
         return error;
 
     }

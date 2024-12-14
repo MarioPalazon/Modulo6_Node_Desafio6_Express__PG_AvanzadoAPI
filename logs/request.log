@@ -9,3 +9,6 @@
 [2024-12-14T18:48:49.440Z]:GET /joyas/filtros?precio_max=15000&precio_min=1500&categoria=collar&metal=plata 200 - 202ms 
 [2024-12-14T18:51:12.665Z]:GET /joyas/filtros?precio_min=1500&categoria=collar&metal=plata 200 - 127ms 
 [2024-12-14T18:51:15.856Z]:GET /joyas/filtros?precio_min=1500&categoria=collar 200 - 8ms 
+[2024-12-14T18:58:27.772Z]:GET /joyas?limits=10&order_by=stock_ASC 200 - 139ms 
+[2024-12-14T18:58:52.298Z]:GET /joyas?limits=3&order_by=stock_ASC 200 - 94ms 
+[2024-12-14T19:00:37.843Z]:GET /joyas?limits=3&order_by=stock_ASC 200 - 160ms 

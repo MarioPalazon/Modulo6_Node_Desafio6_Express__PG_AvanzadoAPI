@@ -15,6 +15,7 @@ const obtenerJoyas = async(req,res)=>{
             totalJoyas=0;
         }
         
+
         const stockTotal = data.reduce((acumulador,stock)=>acumulador+stock.stock,0);
         
         const results= data.map((x=>{
@@ -25,7 +26,7 @@ const obtenerJoyas = async(req,res)=>{
         }))
 
         return res.status(200).json({
-            "paginaActual":Number(page),
+            "paginaActual":Number(page??1),
             "totalJoyas":Number(totalJoyas),
             "stockTotal":Number(stockTotal),
             results
