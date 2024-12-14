@@ -1,0 +1,11 @@
+[2024-12-14T18:38:46.511Z]:GET /joyas/filtros?categoria=collar 200 - 87ms 
+[2024-12-14T18:38:49.640Z]:GET /joyas?limits=3&page=1&order_by=stock_ASC 200 - 8ms 
+[2024-12-14T18:39:43.315Z]:GET /joyas/prueba 404 - 4ms 
+[2024-12-14T18:40:59.511Z]:GET /joyas/filtros?precio_max=15000&precio_min=1500&categoria=collar 200 - 130ms 
+[2024-12-14T18:44:14.099Z]:GET /joyas?limits=10&page=1&order_by=stock_ASC 200 - 159ms 
+[2024-12-14T18:44:22.709Z]:GET /joyas/filtros?precio_max=15000&precio_min=1500&categoria=collar&metal=plata 200 - 7ms 
+[2024-12-14T18:46:16.677Z]:GET /joyas?limits=10&page=1&order_by=stock_ASC 200 - 122ms 
+[2024-12-14T18:46:18.229Z]:GET /joyas/filtros?precio_max=15000&precio_min=1500&categoria=collar&metal=plata 200 - 6ms 
+[2024-12-14T18:48:49.440Z]:GET /joyas/filtros?precio_max=15000&precio_min=1500&categoria=collar&metal=plata 200 - 202ms 
+[2024-12-14T18:51:12.665Z]:GET /joyas/filtros?precio_min=1500&categoria=collar&metal=plata 200 - 127ms 
+[2024-12-14T18:51:15.856Z]:GET /joyas/filtros?precio_min=1500&categoria=collar 200 - 8ms 
