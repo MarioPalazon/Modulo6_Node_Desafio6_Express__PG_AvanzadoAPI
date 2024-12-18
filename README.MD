@@ -53,3 +53,9 @@ const api=express.Router();
 ## instalar pg-format
 
 npm i pg-format
+
+
+## instalar swagger para documentar mi api
+npm i swagger
+npm i swagger-ui-express
+npm i swagger-jsdoc

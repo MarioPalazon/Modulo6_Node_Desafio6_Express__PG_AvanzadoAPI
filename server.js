@@ -1,6 +1,7 @@
 const loggerMiddleware=require("./middlewares/loggerMiddleware.js");
+const express = require('express');
+const setupSwaggerDocs=require("./config/swaggerConfig.js");
 
-const express = require('express')
 const app = express();
 
 //Middleware
@@ -17,11 +18,20 @@ app.use(loggerMiddleware.responseLoggerMiddleware("./logs/response.log")); // se
 
 //Configuraciones Rutas
 app.use('/joyas',joyasRoutes);
+
+//usando documentacion con swagger
+setupSwaggerDocs(app);
+
+//Configuracion de sin Rutas
 app.use('*',sinRoutes);
 
+
+const PORT=3000;
 //Instanciando servidor
 app.listen(
-    3000, 
-    console.log("¡Servidor encendido!")
+    PORT, 
+    ()=>{
+        console.log(`¡Servidor encendido! http://localhost:${PORT}`)
+    }
 );
 

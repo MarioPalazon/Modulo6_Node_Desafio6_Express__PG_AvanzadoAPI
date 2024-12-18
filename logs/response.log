@@ -13,3 +13,5720 @@
 [2024-12-14T18:58:27.758Z] GET /joyas?limits=10&order_by=stock_ASC 200 duracion: 125ms response: {"paginaActual":null,"totalJoyas":6,"stockTotal":27,"results":[{"nombre":"Collar Heart","href":"/joyas/joya/1"},{"nombre":"Anillo Cuarzo Greece","href":"/joyas/joya/6"},{"nombre":"Aros Hook Blue","href":"/joyas/joya/4"},{"nombre":"Anillo Wish","href":"/joyas/joya/5"},{"nombre":"Collar History","href":"/joyas/joya/2"},{"nombre":"Aros Berry","href":"/joyas/joya/3"}]}
 [2024-12-14T18:58:52.297Z] GET /joyas?limits=3&order_by=stock_ASC 200 duracion: 93ms response: {"paginaActual":null,"totalJoyas":6,"stockTotal":8,"results":[{"nombre":"Collar Heart","href":"/joyas/joya/1"},{"nombre":"Anillo Cuarzo Greece","href":"/joyas/joya/6"},{"nombre":"Aros Hook Blue","href":"/joyas/joya/4"}]}
 [2024-12-14T19:00:37.830Z] GET /joyas?limits=3&order_by=stock_ASC 200 duracion: 147ms response: {"paginaActual":1,"totalJoyas":6,"stockTotal":8,"results":[{"nombre":"Collar Heart","href":"/joyas/joya/1"},{"nombre":"Anillo Cuarzo Greece","href":"/joyas/joya/6"},{"nombre":"Aros Hook Blue","href":"/joyas/joya/4"}]}
+[2024-12-15T17:54:35.818Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T17:55:05.584Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-15T17:55:14.858Z] GET /service-worker.js 404 duracion: 2ms response: Esta ruta no existe
+[2024-12-15T17:55:47.681Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T17:55:52.844Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-15T17:55:58.185Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-15T17:56:28.379Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T17:56:32.272Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-15T17:57:17.852Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T17:58:00.279Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T17:58:45.804Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T17:59:15.003Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-15T18:00:10.832Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T18:00:29.739Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T18:00:58.836Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-15T18:01:57.084Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T18:02:29.129Z] GET /service-worker.js 404 duracion: 2ms response: Esta ruta no existe
+[2024-12-15T18:02:52.617Z] GET /service-worker.js 404 duracion: 2ms response: Esta ruta no existe
+[2024-12-15T18:03:28.168Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T18:06:38.189Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-15T18:09:40.029Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:07:04.512Z] GET /api-docs/ 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:07:04.606Z] GET /favicon.ico 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:07:06.156Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:07:35.625Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:20:56.731Z] GET /api-docs/ 404 duracion: 2ms response: Esta ruta no existe
+[2024-12-18T15:20:58.436Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:21:27.760Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:21:44.539Z] GET /api-docs/ 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:21:46.249Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:21:52.038Z] GET /joyas/api-docs/ 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:21:53.823Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:22:51.789Z] GET /api-docs/ 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:22:53.481Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:23:15.307Z] GET /api-docs/ 200 duracion: 5ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:23:15.373Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:24:19.882Z] GET /api-docs/ 200 duracion: 5ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:24:19.964Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:24:21.801Z] GET /service-worker.js 404 duracion: 2ms response: Esta ruta no existe
+[2024-12-18T15:24:29.939Z] GET /api-docs/ 200 duracion: 6ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:24:30.016Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:24:32.107Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:24:33.287Z] GET /api-docs/dsa 200 duracion: 1ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:24:33.361Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:24:35.337Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:24:37.113Z] GET / 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:24:39.162Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:24:40.853Z] GET /fdsfds 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:24:42.933Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:32:44.646Z] GET /api-docs/ 200 duracion: 5ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:32:44.735Z] GET /api-docs/swagger-ui-init.js 200 duracion: 1ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:32:46.863Z] GET /service-worker.js 404 duracion: 2ms response: Esta ruta no existe
+[2024-12-18T15:33:15.887Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:34:18.772Z] GET /api-docs/ 200 duracion: 5ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:34:18.838Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:34:21.033Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:34:49.943Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:40:52.924Z] GET /api-docs/ 200 duracion: 6ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:40:52.995Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:40:55.058Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:41:24.110Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:41:50.480Z] GET /api-docs/ 200 duracion: 5ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:41:50.542Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/joyas": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:41:52.567Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:42:21.914Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:43:35.766Z] GET /api-docs/ 200 duracion: 1ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:43:35.836Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/joyas": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:43:37.870Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:43:51.538Z] GET / 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:43:53.575Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:43:54.374Z] GET /api-docs/ 200 duracion: 1ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:43:54.433Z] GET /api-docs/swagger-ui-init.js 200 duracion: 1ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/joyas": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:43:56.243Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:44:21.457Z] GET /joyas/joyas?limits=10&page=1&order_by=Id_ASC 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:44:48.240Z] GET /api-docs/ 200 duracion: 7ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:44:48.320Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las Joyas",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:44:50.476Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:45:03.520Z] GET /joyas/?limits=10&page=1&order_by=Id_ASC 200 duracion: 262ms response: {"paginaActual":1,"totalJoyas":6,"stockTotal":27,"results":[{"nombre":"Collar Heart","href":"/joyas/joya/1"},{"nombre":"Collar History","href":"/joyas/joya/2"},{"nombre":"Aros Berry","href":"/joyas/joya/3"},{"nombre":"Aros Hook Blue","href":"/joyas/joya/4"},{"nombre":"Anillo Wish","href":"/joyas/joya/5"},{"nombre":"Anillo Cuarzo Greece","href":"/joyas/joya/6"}]}
+[2024-12-18T15:45:34.580Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:51:22.546Z] GET /api-docs/ 200 duracion: 5ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:51:22.621Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "melta": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando paginacion y campos para ordenar",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/filtros": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando filtros de maximo y minino, categoria y metal",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "precio_min",
+              "required": false,
+              "description": "filtra las joyas por el precio minimo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "precio_max",
+              "required": false,
+              "description": "filtra las joyas por el precio maximo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "categoria",
+              "required": false,
+              "description": "filtra las joyas por la categoria por ejemplo collar aros anillo",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "in": "query",
+              "name": "metal",
+              "required": false,
+              "description": "filtra las joyas por el metal por ejemplo oro plata",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista toda las joyas por el filtro aplicado anteriormente",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGetFiltros"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": []
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:51:24.738Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:51:47.084Z] GET /joyas/filtros?precio_min=10&precio_max=100000&categoria=anillo&metal=oro 200 duracion: 128ms response: [{"id":6,"nombre":"Anillo Cuarzo Greece","categoria":"anillo","metal":"oro","precio":40000,"stock":2}]
+[2024-12-18T15:51:58.641Z] GET /joyas/filtros?precio_min=10&precio_max=100000&categoria=anillo 200 duracion: 77ms response: [{"id":6,"nombre":"Anillo Cuarzo Greece","categoria":"anillo","metal":"oro","precio":40000,"stock":2}]
+[2024-12-18T15:52:03.423Z] GET /joyas/filtros?precio_min=10&precio_max=100000 200 duracion: 3ms response: [{"id":1,"nombre":"Collar Heart","categoria":"collar","metal":"oro","precio":20000,"stock":2},{"id":2,"nombre":"Collar History","categoria":"collar","metal":"plata","precio":15000,"stock":5},{"id":3,"nombre":"Aros Berry","categoria":"aros","metal":"oro","precio":12000,"stock":10},{"id":4,"nombre":"Aros Hook Blue","categoria":"aros","metal":"oro","precio":25000,"stock":4},{"id":5,"nombre":"Anillo Wish","categoria":"aros","metal":"plata","precio":30000,"stock":4},{"id":6,"nombre":"Anillo Cuarzo Greece","categoria":"anillo","metal":"oro","precio":40000,"stock":2}]
+[2024-12-18T15:57:14.165Z] GET /api-docs/ 200 duracion: 5ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:57:14.407Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "tags": {
+      "name": "Joyas",
+      "description": "Muestra todo las joyas que se encuentran en inventario"
+    },
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "metal": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando paginacion y campos para ordenar",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/filtros": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando filtros de maximo y minino, categoria y metal",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "precio_min",
+              "required": false,
+              "description": "filtra las joyas por el precio minimo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "precio_max",
+              "required": false,
+              "description": "filtra las joyas por el precio maximo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "categoria",
+              "required": false,
+              "description": "filtra las joyas por la categoria por ejemplo collar aros anillo",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "in": "query",
+              "name": "metal",
+              "required": false,
+              "description": "filtra las joyas por el metal por ejemplo oro plata",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista toda las joyas por el filtro aplicado anteriormente",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGetFiltros"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:57:16.461Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T15:57:45.545Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T15:59:25.501Z] GET /api-docs/ 200 duracion: 7ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T15:59:25.754Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "metal": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando paginacion y campos para ordenar",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/filtros": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando filtros de maximo y minino, categoria y metal",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "precio_min",
+              "required": false,
+              "description": "filtra las joyas por el precio minimo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "precio_max",
+              "required": false,
+              "description": "filtra las joyas por el precio maximo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "categoria",
+              "required": false,
+              "description": "filtra las joyas por la categoria por ejemplo collar aros anillo",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "in": "query",
+              "name": "metal",
+              "required": false,
+              "description": "filtra las joyas por el metal por ejemplo oro plata",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista toda las joyas por el filtro aplicado anteriormente",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGetFiltros"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": [
+      {
+        "name": "Joyas",
+        "description": "Muestra todo las joyas que se encuentran en inventario"
+      }
+    ]
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T15:59:27.813Z] GET /service-worker.js 404 duracion: 2ms response: Esta ruta no existe
+[2024-12-18T15:59:56.878Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T16:02:04.285Z] GET /api-docs/ 200 duracion: 5ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T16:02:04.400Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "metal": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando paginacion y campos para ordenar",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/filtros": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando filtros de maximo y minino, categoria y metal",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "precio_min",
+              "required": false,
+              "description": "filtra las joyas por el precio minimo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "precio_max",
+              "required": false,
+              "description": "filtra las joyas por el precio maximo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "categoria",
+              "required": false,
+              "description": "filtra las joyas por la categoria por ejemplo collar aros anillo",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "in": "query",
+              "name": "metal",
+              "required": false,
+              "description": "filtra las joyas por el metal por ejemplo oro plata",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista toda las joyas por el filtro aplicado anteriormente",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGetFiltros"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": [
+      {
+        "name": "Joyas",
+        "description": "Muestra todo las joyas que se encuentran en inventario"
+      }
+    ]
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T16:02:06.581Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T16:02:31.596Z] GET /api-docs/ 200 duracion: 5ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T16:02:31.819Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "metal": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando paginacion y campos para ordenar",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/filtros": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando filtros de maximo y minino, categoria y metal",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "precio_min",
+              "required": false,
+              "description": "filtra las joyas por el precio minimo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "precio_max",
+              "required": false,
+              "description": "filtra las joyas por el precio maximo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "categoria",
+              "required": false,
+              "description": "filtra las joyas por la categoria por ejemplo collar aros anillo",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "in": "query",
+              "name": "metal",
+              "required": false,
+              "description": "filtra las joyas por el metal por ejemplo oro plata",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista toda las joyas por el filtro aplicado anteriormente",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGetFiltros"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tags": [
+      {
+        "name": "Joyas",
+        "description": "Muestra todo las joyas que se encuentran en inventario"
+      }
+    ]
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T16:02:33.878Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T16:03:02.969Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T16:05:10.162Z] GET /api-docs/ 200 duracion: 5ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T16:05:10.278Z] GET /api-docs/swagger-ui-init.js 200 duracion: 1ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Gestion de Joyas",
+      "version": "1.0.0",
+      "description": "API para gestionar Joyas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "tags": {
+      "name": "Joyas"
+    },
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "metal": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando paginacion y campos para ordenar",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/filtros": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando filtros de maximo y minino, categoria y metal",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "precio_min",
+              "required": false,
+              "description": "filtra las joyas por el precio minimo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "precio_max",
+              "required": false,
+              "description": "filtra las joyas por el precio maximo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "categoria",
+              "required": false,
+              "description": "filtra las joyas por la categoria por ejemplo collar aros anillo",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "in": "query",
+              "name": "metal",
+              "required": false,
+              "description": "filtra las joyas por el metal por ejemplo oro plata",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista toda las joyas por el filtro aplicado anteriormente",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGetFiltros"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T16:05:12.324Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T16:05:41.448Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T16:06:12.919Z] GET /api-docs/ 200 duracion: 6ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T16:06:13.051Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de consultas de Joyas",
+      "version": "1.0.0",
+      "description": "API para realizar consultas de las joyas existentes incluyendo paginacion y filtros de busquedas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "tags": {
+      "name": "Joyas"
+    },
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "metal": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando paginacion y campos para ordenar",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/filtros": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando filtros de maximo y minino, categoria y metal",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "precio_min",
+              "required": false,
+              "description": "filtra las joyas por el precio minimo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "precio_max",
+              "required": false,
+              "description": "filtra las joyas por el precio maximo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "categoria",
+              "required": false,
+              "description": "filtra las joyas por la categoria por ejemplo collar aros anillo",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "in": "query",
+              "name": "metal",
+              "required": false,
+              "description": "filtra las joyas por el metal por ejemplo oro plata",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista toda las joyas por el filtro aplicado anteriormente",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGetFiltros"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T16:06:15.107Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T16:06:44.178Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T16:12:16.361Z] GET /api-docs/ 200 duracion: 6ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T16:12:16.584Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de consultas de Joyas",
+      "version": "1.0.0",
+      "description": "API para realizar consultas de las joyas existentes incluyendo paginacion y filtros de busquedas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "tags": {
+      "name": "Joyas"
+    },
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "metal": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "tags": "Joyas",
+          "summary": "Obtiene todas las joyas usando paginacion y campos para ordenar",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/filtros": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando filtros de maximo y minino, categoria y metal",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "precio_min",
+              "required": false,
+              "description": "filtra las joyas por el precio minimo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "precio_max",
+              "required": false,
+              "description": "filtra las joyas por el precio maximo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "categoria",
+              "required": false,
+              "description": "filtra las joyas por la categoria por ejemplo collar aros anillo",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "in": "query",
+              "name": "metal",
+              "required": false,
+              "description": "filtra las joyas por el metal por ejemplo oro plata",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista toda las joyas por el filtro aplicado anteriormente",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGetFiltros"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T16:12:18.666Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
+[2024-12-18T16:12:39.772Z] GET /api-docs/ 200 duracion: 7ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T16:12:40.013Z] GET /api-docs/swagger-ui-init.js 200 duracion: 0ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de consultas de Joyas",
+      "version": "1.0.0",
+      "description": "API para realizar consultas de las joyas existentes incluyendo paginacion y filtros de busquedas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "tags": {
+      "name": "Joyas"
+    },
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "metal": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "tags": [
+            "Joyas"
+          ],
+          "summary": "Obtiene todas las joyas usando paginacion y campos para ordenar",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/filtros": {
+        "get": {
+          "summary": "Obtiene todas las joyas usando filtros de maximo y minino, categoria y metal",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "precio_min",
+              "required": false,
+              "description": "filtra las joyas por el precio minimo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "precio_max",
+              "required": false,
+              "description": "filtra las joyas por el precio maximo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "categoria",
+              "required": false,
+              "description": "filtra las joyas por la categoria por ejemplo collar aros anillo",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "in": "query",
+              "name": "metal",
+              "required": false,
+              "description": "filtra las joyas por el metal por ejemplo oro plata",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista toda las joyas por el filtro aplicado anteriormente",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGetFiltros"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T16:12:42.363Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T16:13:11.101Z] GET /service-worker.js 404 duracion: 1ms response: Esta ruta no existe
+[2024-12-18T16:13:11.912Z] GET /api-docs/ 200 duracion: 3ms response: 
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Swagger UI</title>
+  <link rel="stylesheet" type="text/css" href="./swagger-ui.css" >
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html
+    {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+    *,
+    *:before,
+    *:after
+    {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin:0;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+  <defs>
+    <symbol viewBox="0 0 20 20" id="unlocked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="locked">
+      <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="close">
+      <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow">
+      <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 20 20" id="large-arrow-down">
+      <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="jump-to">
+      <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+      <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+    </symbol>
+
+  </defs>
+</svg>
+
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"> </script>
+<script src="./swagger-ui-standalone-preset.js"> </script>
+<script src="./swagger-ui-init.js"> </script>
+
+
+
+<style>
+  .swagger-ui .topbar .download-url-wrapper { display: none } undefined
+</style>
+</body>
+
+</html>
+
+[2024-12-18T16:13:12.123Z] GET /api-docs/swagger-ui-init.js 200 duracion: 1ms response: 
+window.onload = function() {
+  // Build a system
+  var url = window.location.search.match(/url=([^&]+)/);
+  if (url && url.length > 1) {
+    url = decodeURIComponent(url[1]);
+  } else {
+    url = window.location.origin;
+  }
+  var options = {
+  "swaggerDoc": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de consultas de Joyas",
+      "version": "1.0.0",
+      "description": "API para realizar consultas de las joyas existentes incluyendo paginacion y filtros de busquedas"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:3000/joyas"
+      }
+    ],
+    "tags": {
+      "name": "Joyas"
+    },
+    "components": {
+      "schemas": {
+        "ParamsGet": {
+          "properties": {
+            "limits": {
+              "type": "integer",
+              "example": 10
+            },
+            "page": {
+              "type": "integer",
+              "example": 1
+            },
+            "order_by": {
+              "type": "string",
+              "example": "Id_ASC"
+            }
+          }
+        },
+        "ParamsGetFiltros": {
+          "properties": {
+            "precio_max": {
+              "type": "integer",
+              "example": 100
+            },
+            "precio_min": {
+              "type": "integer",
+              "example": 10
+            },
+            "categoria": {
+              "type": "string",
+              "example": "anillo"
+            },
+            "metal": {
+              "type": "string",
+              "example": "oro"
+            }
+          }
+        }
+      }
+    },
+    "paths": {
+      "/": {
+        "get": {
+          "tags": [
+            "Joyas"
+          ],
+          "summary": "Obtiene todas las joyas usando paginacion y campos para ordenar",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "limits",
+              "required": false,
+              "description": "se define la cantidad de registros a mostrar por pagina",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "page",
+              "required": false,
+              "description": "se define la pagina a consultar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "order_by",
+              "required": false,
+              "description": "se indica el campo para ordenar los registros al momento de mostrar las joyas",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista todas las Joyas",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGet"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/filtros": {
+        "get": {
+          "tags": [
+            "Joyas"
+          ],
+          "summary": "Obtiene todas las joyas usando filtros de maximo y minino, categoria y metal",
+          "parameters": [
+            {
+              "in": "query",
+              "name": "precio_min",
+              "required": false,
+              "description": "filtra las joyas por el precio minimo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "precio_max",
+              "required": false,
+              "description": "filtra las joyas por el precio maximo a mostrar",
+              "schema": {
+                "type": "integer"
+              }
+            },
+            {
+              "in": "query",
+              "name": "categoria",
+              "required": false,
+              "description": "filtra las joyas por la categoria por ejemplo collar aros anillo",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "in": "query",
+              "name": "metal",
+              "required": false,
+              "description": "filtra las joyas por el metal por ejemplo oro plata",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Lista toda las joyas por el filtro aplicado anteriormente",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "tyoe": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ParamsGetFiltros"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "customOptions": {}
+};
+  url = options.swaggerUrl || url
+  var urls = options.swaggerUrls
+  var customOptions = options.customOptions
+  var spec1 = options.swaggerDoc
+  var swaggerOptions = {
+    spec: spec1,
+    url: url,
+    urls: urls,
+    dom_id: '#swagger-ui',
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: "StandaloneLayout"
+  }
+  for (var attrname in customOptions) {
+    swaggerOptions[attrname] = customOptions[attrname];
+  }
+  var ui = SwaggerUIBundle(swaggerOptions)
+
+  if (customOptions.oauth) {
+    ui.initOAuth(customOptions.oauth)
+  }
+
+  if (customOptions.preauthorizeApiKey) {
+    const key = customOptions.preauthorizeApiKey.authDefinitionKey;
+    const value = customOptions.preauthorizeApiKey.apiKeyValue;
+    if (!!key && !!value) {
+      const pid = setInterval(() => {
+        const authorized = ui.preauthorizeApiKey(key, value);
+        if(!!authorized) clearInterval(pid);
+      }, 500)
+
+    }
+  }
+
+  if (customOptions.authAction) {
+    ui.authActions.authorize(customOptions.authAction)
+  }
+
+  window.ui = ui
+}
+
+[2024-12-18T16:13:14.189Z] GET /service-worker.js 404 duracion: 0ms response: Esta ruta no existe
